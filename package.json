@@ -1,5 +1,5 @@
 {
-  "name": "@wyxos/auto-export",
+  "name": "@wyxos/webpack-auto-export",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/main.js",
