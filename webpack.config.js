@@ -4,7 +4,6 @@ module.exports = {
     target: 'node',
     output: {
         library: {
-            name: 'AutoExport',
             type: 'commonjs'
         },
     }
