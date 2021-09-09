@@ -2,6 +2,16 @@ Webpack Auto Export
 
 Module to generate an entry point containing exports to all files within a directory.
 
+- Install
+``` npm install github:wyxos/webpack-auto-export ```
+
+- Import
+``` import AutoExport from '@wyxos/webpack-auto-export' ```
+
+or
+
+``` const AutoExport = require('@wyxos/webpack-auto-export') ```
+
 
 - Example with Webpack
 
